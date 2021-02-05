@@ -49,6 +49,12 @@ This shows the length of time that bike s are checked out for each gender.
 
 A heat map that shows the number of bike trips by weekday for each hour of the day is generated in this analysis. 
 
+![4](https://user-images.githubusercontent.com/73450637/106975292-43dd6b00-6724-11eb-8a8c-1fa46fd8c469.png)
+
+#### VI. Trips by Gender
+
+The heat map that shows the number of bike trips by gender for each hour of each day of the week is generated. 
+
 
 
 
