@@ -43,6 +43,14 @@ In this analysis the lenght of checkout time by all users are plotted.
 
 This shows the length of time that bike s are checked out for each gender. 
 
+![3](https://user-images.githubusercontent.com/73450637/106975282-3cb65d00-6724-11eb-8d81-1b4a48f8376f.png)
+
+#### V. Trips by Weekday Hour
+
+A heat map that shows the number of bike trips by weekday for each hour of the day is generated in this analysis. 
+
+
+
 
 
 
