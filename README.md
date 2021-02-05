@@ -31,6 +31,15 @@ The total number of customers from both categories are listed.
 
 This analysis shows the peak riding hours for the month of August. 
 
+![8](https://user-images.githubusercontent.com/73450637/106974821-5905ca00-6723-11eb-8707-9487202e8f0f.png)
+
+#### III. Checkout Time for Users
+
+In this analysis the lenght of checkout time by all users are plotted.
+
+
+
+
 
 
 
