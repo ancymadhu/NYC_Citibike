@@ -9,6 +9,11 @@ In this project, a data visualization software called Tableau is used to present
 * How to import, style, and portray data accurately
 * Creating worksheets, dashboards, and stories to visualize key data from a New York Citi Bike dataset.
 
+## Resources
+
+Software: Tableau, Jupyter Notebook
+Data Source: [City Bike System Data Page](https://www.citibikenyc.com/system-data)
+
 
 
 
