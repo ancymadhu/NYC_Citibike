@@ -55,6 +55,11 @@ A heat map that shows the number of bike trips by weekday for each hour of the d
 
 The heat map that shows the number of bike trips by gender for each hour of each day of the week is generated. 
 
+![5](https://user-images.githubusercontent.com/73450637/106975561-c5cd9400-6724-11eb-82f5-ccea92238ef0.png)
+
+#### VII. User Trips by Gender
+
+This heat map shows the number of bike trips by gender for each hour of each day of the week.
 
 
 
