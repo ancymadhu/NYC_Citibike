@@ -37,6 +37,14 @@ This analysis shows the peak riding hours for the month of August.
 
 In this analysis the lenght of checkout time by all users are plotted.
 
+![2](https://user-images.githubusercontent.com/73450637/106975180-07aa0a80-6724-11eb-99be-2a6e6bf87a83.png)
+
+#### IV. Checkout Time by Gender
+
+This shows the length of time that bike s are checked out for each gender. 
+
+
+
 
 
 
