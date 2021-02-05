@@ -11,8 +11,18 @@ In this project, a data visualization software called Tableau is used to present
 
 ## Resources
 
-Software: Tableau, Jupyter Notebook
-Data Source: [City Bike System Data Page](https://www.citibikenyc.com/system-data)
+* Software: Tableau, Jupyter Notebook
+* Data Source: [City Bike System Data Page](https://www.citibikenyc.com/system-data)
+
+## Results
+
+The following visualizations ahve been done for the NYC bike analysis.
+
+#### I. Cutomer Types
+
+This analysis shows the proportion of short term customers to annual cutomers [customers vs Subscribers]
+
+
 
 
 
