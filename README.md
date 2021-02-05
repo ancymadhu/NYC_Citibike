@@ -20,7 +20,16 @@ The following visualizations ahve been done for the NYC bike analysis.
 
 #### I. Cutomer Types
 
-This analysis shows the proportion of short term customers to annual cutomers [customers vs Subscribers]
+This analysis shows the proportion of short term customers to annual cutomers (Customers vs Subscribers)
+
+![7](https://user-images.githubusercontent.com/73450637/106974580-ed236180-6722-11eb-8a5e-978a08c6b28e.png)
+
+The total number of customers from both categories are listed. 
+
+
+#### II. August Peak Hours
+
+This analysis shows the peak riding hours for the month of August. 
 
 
 
