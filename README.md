@@ -61,16 +61,19 @@ The heat map that shows the number of bike trips by gender for each hour of each
 
 This heat map shows the number of bike trips by gender for each hour of each day of the week.
 
+![6](https://user-images.githubusercontent.com/73450637/106975296-463fc500-6724-11eb-9190-eb46753d55a4.png)
 
+## Summary
 
+### Summary of the Results 
 
-
-
-
-
-
-
-
+It is better to create a tableau story that will help in presenting the analysis in an efficient way and making it available in public form as below.
 
 [Link to Dashboard](https://public.tableau.com/profile/ancy.madhu#!/vizhome/NYC_CitiBike_Analysis/Story1?publish=yes)
+
+### Suggestion for Future Analysis
+
+
+
+
 
