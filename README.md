@@ -69,11 +69,13 @@ This heat map shows the number of bike trips by gender for each hour of each day
 
 It is better to create a tableau story that will help in presenting the analysis in an efficient way and making it available in public form as below.
 
+![9](https://user-images.githubusercontent.com/73450637/106976031-aa16bd80-6725-11eb-8570-e407fcde24f5.png)
+
 [Link to Dashboard](https://public.tableau.com/profile/ancy.madhu#!/vizhome/NYC_CitiBike_Analysis/Story1?publish=yes)
 
 ### Suggestion for Future Analysis
 
+There is still some more work to be done to convince investors that a bike-sharing program in Des Moines is a solid business proposal. 
 
-
-
-
+1. By conducting an analysis that shows the most commonly checked in station (by making use of station ID).
+2. Putting light to the age category by making use of birth year which gives an idea about that specific age category that cycles the most.
